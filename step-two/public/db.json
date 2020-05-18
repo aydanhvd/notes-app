@@ -1,0 +1,83 @@
+{
+  "notes": [
+    {
+      "id": 16,
+      "title": "I love Rock",
+      "text": "Hey! I'm a big fan of Rock music(especially classic rock big Queen fan here).So decided to write Rock History facts here. Soo yeah enjoy I guess",
+      "date": 1585583586731,
+      "archive": false,
+      "color": "#FFBAB3"
+    },
+    {
+      "id": 2,
+      "title": "Brian May",
+      "text": "Brian’s guitar is over 200 years old. This is true, in a way. He and his Dad built it from scratch, using the wood from a 200-year-old mantelpiece.",
+      "date": 1585583586731,
+      "archive": true,
+      "color": "#EDE9E6"
+    },
+    {
+      "id": 4,
+      "title": "Crazy Little Thing Called Love",
+      "text": "Freddie wrote ‘Crazy Little Thing Called Love’ while in the bath. Rumour has it that he had his piano moved to his bathside. Did the piano not get wet? Did his bathwater not get cold?.",
+      "date": 1585583586731,
+      "archive": false,
+      "color": "#EDE9E6"
+    },
+    {
+      "id": 6,
+      "title": "Yellow Brick Road",
+      "text": "Though all official sources say it is coincidence, the Pink Floyd album The Dark Side of the Moon lines up perfectly with the 1939 film The Wizard of Oz. The rainbow on the album cover further pushes the idea that the two are connected. Conspirators refer to this pairing with names like “Dark Side of the Rainbow”, “The Wizard of Floyd” & “Dark Side of Oz”.",
+      "date": 1585583586731,
+      "archive": true,
+      "color": "#D68E4D"
+    },
+    {
+      "id": 7,
+      "title": "Cover Band",
+      "text": "The Beatles hold the record for most Rolling Stone magazine covers with more than 30.",
+      "date": 1585583586731,
+      "archive": true,
+      "color": "#FFBAB3"
+    },
+    {
+      "id": 8,
+      "title": "Dedication",
+      "text": "Queen holds the Guinness World Record for longest-running rock group fan club. All other clubs have bit the dust.",
+      "date": 1585583586731,
+      "archive": true,
+      "color": "#E1C5DB"
+    },
+    {
+      "id": 10,
+      "title": "For The Love Of Your Country",
+      "text": "Paul McCartney performed in the opening ceremony of the 2012 London Olympics for a mere $1.57.",
+      "date": 1585583586731,
+      "archive": true,
+      "color": "#EDE9E6"
+    },
+    {
+      "id": 15,
+      "title": "Nice And Simple",
+      "text": "ABBA got its name by taking the first letter of each band member’s name.",
+      "date": 1585583586731,
+      "archive": false,
+      "color": "#C6C5DB"
+    },
+    {
+      "id": 17,
+      "title": "Brian May",
+      "text": "Brian’s guitar is over 200 years old. This is true, in a way. He and his Dad built it from scratch, using the wood from a 200-year-old mantelpiece.",
+      "date": 1585583586731,
+      "archive": true,
+      "color": "#FFBAB3"
+    },
+    {
+      "title": "heyy",
+      "text": "heyhey",
+      "color": "#E1C5DB",
+      "archive": false,
+      "id": 18
+    }
+  ]
+}
